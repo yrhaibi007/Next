@@ -1,0 +1,13 @@
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\TrainStation.deps.json
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\TrainStation.runtimeconfig.json
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\TrainStation.runtimeconfig.dev.json
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\Places.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\obj\Debug\netcoreapp1.1\TrainStation.csprojResolveAssemblyReference.cache
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\obj\Debug\netcoreapp1.1\TrainStation.csproj.CoreCompileInputs.cache
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\obj\Debug\netcoreapp1.1\TrainStation.AssemblyInfo.cs
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\TrainStation.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\TrainStation.pdb
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\Places.pdb
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\bin\Debug\netcoreapp1.1\Places.dll.config
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\obj\Debug\netcoreapp1.1\TrainStation.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\TrainStation\obj\Debug\netcoreapp1.1\TrainStation.pdb

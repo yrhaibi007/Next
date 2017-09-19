@@ -1,0 +1,16 @@
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\Places.dll.config
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\Places.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\Places.pdb
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.xml
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\obj\Debug\Places.csproj.App.config
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\obj\Debug\Places.csprojResolveAssemblyReference.cache
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\obj\Debug\Places.csproj.CoreCompileInputs.cache
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\obj\Debug\Places.dll
+C:\Users\yrhai\Downloads\Google-Places-master\Google-Places-master\Places\obj\Debug\Places.pdb
